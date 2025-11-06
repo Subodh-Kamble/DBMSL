@@ -3,8 +3,8 @@ DROP TABLE IF EXISTS N_RollCall;
 DROP TABLE IF EXISTS O_RollCall;
 
 -- Create database
-create database cursor_prac;
-use cursor_prac;
+create database cursorprac;
+use cursorprac;
 
 -- Create tables
 CREATE TABLE O_RollCall (
